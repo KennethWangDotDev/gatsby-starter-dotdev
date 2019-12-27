@@ -10,7 +10,7 @@ module.exports = {
 		siteUrl: 'https://gatsby-starter-dotdev.kennethwang.dev',
 		siteDescription: 'Gatsby Starter for Dotdev Theme',
 		siteLanguage: 'en',
-		siteImage: '/banner.jpg',
+		siteImage: '/banner.png',
 		author: 'John Doe',
 		role: 'backend engineer',
 		footerLinks: [
