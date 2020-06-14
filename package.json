@@ -1,20 +1,20 @@
 {
-	"name": "gatsby-starter-dotdev",
-	"description": "Gatsby Starter for gatsby-theme-dotdev",
-	"version": "1.0.0",
-	"author": "Kenneth Wang <me@kennethwang.dev>",
-	"license": "MIT",
-	"scripts": {
-		"build": "gatsby build",
-		"develop": "gatsby develop",
-		"start": "gatsby develop",
-		"serve": "gatsby serve",
-		"clean": "gatsby clean"
-	},
-	"dependencies": {
-		"gatsby": "^2.15.2",
-		"gatsby-theme-dotdev": "^1.1.1",
-		"react": "^16.9.0",
-		"react-dom": "^16.9.0"
-	}
+    "name": "gatsby-starter-dotdev",
+    "description": "Gatsby Starter for gatsby-theme-dotdev",
+    "version": "1.0.0",
+    "author": "Kenneth Wang <me@kennethwang.dev>",
+    "license": "MIT",
+    "scripts": {
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "start": "gatsby develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean"
+    },
+    "dependencies": {
+        "gatsby": "^2.15.2",
+        "gatsby-theme-dotdev": "^1.1.4",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0"
+    }
 }
